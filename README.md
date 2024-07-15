@@ -8,7 +8,7 @@ One of the key features of the website is the ability to buy tickets for a movie
 
 The website's design is responsive, thanks to the use of CSS flexbox. This means that the layout of the website adapts to different screen sizes and devices, providing an optimal user experience. The website's styles are defined in a separate CSS file, which makes it easy to maintain and update the design.
 
-From a technical perspective, the website uses the Fetch API to fetch movie data from the JSON server. The data is then parsed and used to populate the movie list and display movie details. The website also uses event listeners to handle user interactions, such as clicking on a movie or buying a ticket.
+The website uses the Fetch API to fetch movie data from the JSON server. The data is then parsed and used to populate the movie list and display movie details. The website also uses event listeners to handle user interactions, such as clicking on a movie or buying a ticket.
 
 To set up the website, simply open the index.html file in a web browser. However, please note that the website will not function correctly unless the filmsUrl variable in the index.js file is replaced with the URL of a functional JSON server. This is because the website relies on the JSON server to fetch movie data.
 
