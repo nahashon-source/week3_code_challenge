@@ -1,4 +1,3 @@
-Here is the rewritten README.md file in paragraph form:
 
 Flatdango Movie Ticketing Website
 <!-- Brief overview of the project -->
