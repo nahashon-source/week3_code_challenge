@@ -1,5 +1,4 @@
-
-Flatdango Movie Ticketing Website
+# Flatdango Movie Ticketing Website
 <!-- Brief overview of the project -->
 The Flatdango movie ticketing website is a dynamic web application built using HTML, CSS, and JavaScript. The website's primary function is to display a list of movies in the sidebar, which are fetched from a JSON server. When a user clicks on a movie, its details are displayed in the main section of the website. The movie details include the title, runtime, showtime, available tickets, description, and a poster image.
 
